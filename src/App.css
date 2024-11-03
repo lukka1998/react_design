@@ -1,0 +1,14 @@
+#root {
+  padding: 0rem;
+  height: 100vh;
+  
+}
+
+@media only screen and (max-width: 460px) {
+  .header{
+    padding: 0px;
+  }
+  .logo{
+    width: 160px;
+  }
+}
